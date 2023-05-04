@@ -11,6 +11,7 @@ Not Found libarclite_iphoneos.a  in (Xcode 14.3)
 7. Right Click on XcodeDefault.xctoolchain
 8. Select Show Package Contents
 9. Click on usr
-10. Click on arc
-11. Download all files & Add them to the arc folder
-12. Now you are ready to run the app. :)
+10. Click on lib
+11. Click on arc
+12. Download all files & Add them to the arc folder
+13. Now you are ready to run the app. :)
